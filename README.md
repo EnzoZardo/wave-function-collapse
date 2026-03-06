@@ -1,4 +1,4 @@
-# Wave Functio Collapse
+# Wave Function Collapse
 Algoritmo de Wave Function Collapse desenvolvido para a matéria de Inteligência Artificial.
 
 O algoritmo foi desenhado com base no seguinte pseudo-código:
